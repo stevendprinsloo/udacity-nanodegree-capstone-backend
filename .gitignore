@@ -132,6 +132,7 @@ venv.bak/
 *.crt
 *.key
 *.csr
+cert/
 
 # Spyder project settings
 .spyderproject
